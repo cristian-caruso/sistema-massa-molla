@@ -29,6 +29,9 @@ pip install matplotlib
 ## Output
 Il programma genera un grafico della posizione nel tempo, mostrando l'oscillazione smorzata del sistema.
 
+![Esempio di output](https://github.com/user-attachments/assets/c79c87c4-3345-4476-bf8c-0c36e2aa2b48)
+
+
 ## Autore
 Cristian Caruso
 
